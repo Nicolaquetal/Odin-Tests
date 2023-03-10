@@ -1,0 +1,19 @@
+{
+  "name": "odin-tests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalyze.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolaquetal/Odin-Tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolaquetal/Odin-Tests/issues"
+  },
+  "homepage": "https://github.com/Nicolaquetal/Odin-Tests#readme"
+}
